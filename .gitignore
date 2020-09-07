@@ -1,4 +1,8 @@
-VOC2007/
+VOC2007_test/
+VOC2007_train/
+VOC2007_test_subimages/
+face_mask_dataset/
+yale_face_dataset/
 .vscode/
 .ipynb_checkpoints/
 *.h5
