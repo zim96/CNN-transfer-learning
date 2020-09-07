@@ -1,6 +1,7 @@
 VOC2007_test/
 VOC2007_train/
 VOC2007_test_subimages/
+VOC2007_train_subimages/
 face_mask_dataset/
 yale_face_dataset/
 .vscode/
